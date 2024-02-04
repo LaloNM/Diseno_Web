@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+*{
+    text-align: center;
+}
+header{
+    background-color: black;
+    width: 100%;
+    height: 40vh;
+}
+h1{
+    color: aquamarine;
+    font-size: 2rem;
+    letter-spacing: 1.5rem;
+    word-spacing: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    background-color: aquamarine;
+    width: 100%;
+    height: vh;
+}
+section{
+    background-color: rgb(17, 159, 225);
+    width: 70%;
+    height: 40vh;
+}
+aside{
+    background-color: pink;
+    width: 30%;
+    height: 40vh;
+}
+footer{
+    background-color: yellow;
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+li{
+    font-size: 2.8em;
+    list-style-type: none;
+}
+main{
+    width: 100%;
+    height: 40vh;
+    display: flex;
+}
